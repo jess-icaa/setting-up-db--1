@@ -21,7 +21,7 @@ You need to install all the necessary packages required for the task.
 
 ## Backend Server Requirements:
 
-- Go to `index.js`.
+- Go to `index.js`.`
 - Set up an Express.js server.
 - Write the code to:
   - Load and use environment variables from the `.env` file.
